@@ -1,16 +1,16 @@
 {
-  "name": "javascript-game-sample",
+  "name": "StackUpHexNE",
   "private": true,
   "version": "0.1.0",
   "description": "",
   "scripts": {
-    "start": "akashic-sandbox .",
+    "start": "akashic serve --target-service nicolive",
     "lint": "eslint script",
     "test": "npm run lint"
   },
   "keywords": [],
-  "author": "",
-  "license": "",
+  "author": "istallia",
+  "license": "GPL-v3",
   "devDependencies": {
     "@akashic/akashic-sandbox": "~0.17.35",
     "eslint": "8.4.1"

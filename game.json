@@ -26,10 +26,37 @@
 			"type": "script",
 			"path": "script/main.js",
 			"global": true
+		},
+		"bgm-game-nc262974": {
+			"type": "audio",
+			"path": "audio/bgm-game-nc262974",
+			"systemId": "sound",
+			"duration": 128183
+		},
+		"se-put-nc118444": {
+			"type": "audio",
+			"path": "audio/se-put-nc118444",
+			"systemId": "sound",
+			"duration": 513
+		},
+		"bgm-result-nc244598": {
+			"type": "audio",
+			"path": "audio/bgm-result-nc244598",
+			"systemId": "sound",
+			"duration": 134479
+		},
+		"se-next-turn-nc161700": {
+			"type": "audio",
+			"path": "audio/se-next-turn-nc161700",
+			"systemId": "sound",
+			"duration": 1202
 		}
 	},
 	"moduleMainScripts": {},
 	"environment": {
-		"sandbox-runtime": "3"
+		"sandbox-runtime": "3",
+		"niconico": {
+			"supportedModes": "multi_admission"
+		}
 	}
 }
