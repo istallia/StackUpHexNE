@@ -21,3 +21,9 @@ StackUpHex Niconama Edition
 3. 結果シーン
 	- スコアと勝利陣営を表示
 	- 特に何の操作も受けず、時間経過で終了する
+
+## クレジット
+
+| タイトル       | 権利表記                            |
+| ---            | ---                                 |
+| Akashic Engine | Copyright (c) 2017 DWANGO Co., Ltd. |
