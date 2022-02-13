@@ -50,6 +50,12 @@
 			"path": "audio/se-next-turn-nc161700",
 			"systemId": "sound",
 			"duration": 1202
+		},
+		"title": {
+			"type": "image",
+			"path": "image/title.png",
+			"width": 1280,
+			"height": 720
 		}
 	},
 	"moduleMainScripts": {},
