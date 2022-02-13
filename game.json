@@ -110,6 +110,20 @@
 			"path": "image/selection-streamer.png",
 			"width": 260,
 			"height": 60
+		},
+		"font-corpround": {
+			"type": "image",
+			"path": "image/font-corpround.png",
+			"width": 256,
+			"height": 116
+		},
+		"players": {
+			"type": "text",
+			"path": "text/players.txt"
+		},
+		"font-corpround_glyphs": {
+			"type": "text",
+			"path": "text/font-corpround_glyphs.json"
 		}
 	},
 	"moduleMainScripts": {},

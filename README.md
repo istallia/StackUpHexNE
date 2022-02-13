@@ -24,6 +24,7 @@ StackUpHex Niconama Edition
 
 ## クレジット
 
-| タイトル       | 権利表記                            |
-| ---            | ---                                 |
-| Akashic Engine | Copyright (c) 2017 DWANGO Co., Ltd. |
+| タイトル                      | 権利表記 / URL                                                                                               |
+| ---                           | ---                                                                                                          |
+| Akashic Engine                | Copyright (c) 2017 DWANGO Co., Ltd.                                                                          |
+| コーポレート・ロゴ (ラウンド) | Copyright (c) LOGOTYPE.JP ([SIL Open Font License 1.1](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)) |
