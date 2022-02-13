@@ -2,11 +2,15 @@
 const main = param => {
     const scene = new g.Scene({
         game: g.game,
-        assetIds: ["title"]
+        assetIds: ["bgm-title", "title"]
     });
     scene.onLoad.add(() => {
         /* 各アセットオブジェクトを取得 */
+        const bgmAsset        = scene.asset.getAudioById("bgm-title");
         const titleImageAsset = scene.asset.getImageById("title");
+        /* BGMを再生(自動ループ) */
+        const bgmPlayer = bgmAsset.play();
+        bgmPlayer.changeVolume(0.5);
         /* 背景板を生成 */
         const background = new g.FilledRect({
             scene    : scene,

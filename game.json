@@ -27,25 +27,25 @@
 			"path": "script/main.js",
 			"global": true
 		},
-		"bgm-game-nc262974": {
+		"bgm-game": {
 			"type": "audio",
 			"path": "audio/bgm-game-nc262974",
-			"systemId": "sound",
+			"systemId": "music",
 			"duration": 128183
 		},
-		"se-put-nc118444": {
+		"se-put": {
 			"type": "audio",
 			"path": "audio/se-put-nc118444",
 			"systemId": "sound",
 			"duration": 513
 		},
-		"bgm-result-nc244598": {
+		"bgm-result": {
 			"type": "audio",
 			"path": "audio/bgm-result-nc244598",
-			"systemId": "sound",
+			"systemId": "music",
 			"duration": 134479
 		},
-		"se-next-turn-nc161700": {
+		"se-next-turn": {
 			"type": "audio",
 			"path": "audio/se-next-turn-nc161700",
 			"systemId": "sound",
@@ -56,6 +56,60 @@
 			"path": "image/title.png",
 			"width": 1280,
 			"height": 720
+		},
+		"bgm-title": {
+			"type": "audio",
+			"path": "audio/bgm-title-nc242027",
+			"systemId": "music",
+			"duration": 59077
+		},
+		"button-left": {
+			"type": "image",
+			"path": "image/button-left.png",
+			"width": 60,
+			"height": 60
+		},
+		"button-right": {
+			"type": "image",
+			"path": "image/button-right.png",
+			"width": 60,
+			"height": 60
+		},
+		"button-start": {
+			"type": "image",
+			"path": "image/button-start.png",
+			"width": 380,
+			"height": 68
+		},
+		"selection-listener": {
+			"type": "image",
+			"path": "image/selection-listener.png",
+			"width": 260,
+			"height": 60
+		},
+		"selection-size5": {
+			"type": "image",
+			"path": "image/selection-size5.png",
+			"width": 260,
+			"height": 60
+		},
+		"selection-size7": {
+			"type": "image",
+			"path": "image/selection-size7.png",
+			"width": 260,
+			"height": 60
+		},
+		"selection-size9": {
+			"type": "image",
+			"path": "image/selection-size9.png",
+			"width": 260,
+			"height": 60
+		},
+		"selection-streamer": {
+			"type": "image",
+			"path": "image/selection-streamer.png",
+			"width": 260,
+			"height": 60
 		}
 	},
 	"moduleMainScripts": {},
